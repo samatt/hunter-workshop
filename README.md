@@ -1,6 +1,8 @@
-## Hunter College
+## Algorithmic Disobedience Workshop
 
- **03/10 + 03/17 10:30 am - 5:30 pm**
+**Hunter College**
+
+**03/10 + 03/17 10:30 am - 5:30 pm**
 
 
 
