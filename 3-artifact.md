@@ -1,6 +1,6 @@
 # STEP 3: CREATE AN ARTIFACT  
   
-Develop an artifacts/response that embodies/represents/communicates one or more of your disobedient actions.   
+Develop artifacts/responses that embodies/represents/communicates one or more of your disobedient actions.   
   
 Ideas for artifacts.   
   
@@ -18,6 +18,7 @@ Dataset
 Map/data visualization   
 Mockup of a browser add on or platform  
 Zine  
+Poem  
 ? ___________________  
 ? ___________________  
 ? ___________________  
