@@ -22,11 +22,11 @@ Tega Brain: brain@nyu.edu
 
 - *10:30 - 11:00* Introductions (students)
 - *11:00 - 11:45* Introduction to politics of algorithms. Devise workshop outcomes.
-- *12:00 - 12:45* Introduction to algorithmic disobedience.
-- *12:45 - 1:45* Lunch
-- 2:00 - 3:30: Researching an algorithmic system (individually). White board. Presentations.
+- *12:30 - 1:30* Lunch
+- *1:30 - 2:30: Researching an algorithmic system (individually). White board. Present back.
+- *2:45 - 3:45* Tactics of algorithmic disobedience.
 - *3:45 - 5:00*  Developing tactics + present back
-- *4:30- 5:30* Project logistics. Roles. Groups etc. What do we need to get for next week? 
+- *5:00- 5:30* Project logistics. Goals. Roles. Groups etc. What do we need to get for next week? 
 - **Homework**
   - Readings
     - [Hito Steyerl, A Sea of Data: Apophenia and Pattern (Mis-)Recognition](https://drive.google.com/file/d/0B8pZRjIECCvPVUIxcmQtQmw3TjQ/view?usp=sharing)
