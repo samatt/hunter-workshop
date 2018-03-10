@@ -30,8 +30,8 @@ Tega Brain: brain@nyu.edu
 - **Homework**
  - Develop one or more of your tactics for disobedience and realise it in (one or more) artifact. Bring to class next week. 
  - Readings
-    - [Hito Steyerl, A Sea of Data: Apophenia and Pattern (Mis-)Recognition](https://drive.google.com/file/d/0B8pZRjIECCvPVUIxcmQtQmw3TjQ/view?usp=sharing)
-      - Jenny Odell, How to do Nothing [read the essay](https://medium.com/@the_jennitaur/how-to-do-nothing-57e100f59bbb) or [watch the talk](https://www.youtube.com/watch?v=mNRqswoCVcM)
+** [Hito Steyerl, A Sea of Data: Apophenia and Pattern (Mis-)Recognition](https://drive.google.com/file/d/0B8pZRjIECCvPVUIxcmQtQmw3TjQ/view?usp=sharing)
+** - Jenny Odell, How to do Nothing [read the essay](https://medium.com/@the_jennitaur/how-to-do-nothing-57e100f59bbb) or [watch the talk](https://www.youtube.com/watch?v=mNRqswoCVcM)
 
 ### Day 2
 
