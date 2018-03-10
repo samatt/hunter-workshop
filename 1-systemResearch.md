@@ -27,6 +27,7 @@ Think about the role algorithms play in these daily activities? What are the maj
 
 In your chosen system...  
   
+What is the goal the system?  (the goal they are advertising to the user. Vs. the business model, how does the system make money?).  
 How is data collected? By who?  
 Where is it stored?  
 Do you have access to it?  
