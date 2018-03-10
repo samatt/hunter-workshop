@@ -1,6 +1,6 @@
-#STEP 1: IDENTIFY/RESEARCH
+# STEP 1: IDENTIFY/RESEARCH
 
-What aspects of your life that are influenced by algorithmic systems?
+What are aspects/services in your life that are influenced by algorithmic or data driven systems? 
 
 Fitness
 Dating
@@ -11,7 +11,6 @@ Transportation
 Currency
 Banking
 Policing
-Borrowing money
 Babysitting
 Eating
 Shopping
@@ -24,9 +23,9 @@ Medicine
 
 Think about the role algorithms play in these daily activities? What are the major services, apps, software platforms, techniques used?
 
-Choose one algorithmic system from this discussion
+## Choose one algorithmic system from this discussion
 
-In the chosen system...
+In your chosen system...
 
 How is data collected?
 By who?
