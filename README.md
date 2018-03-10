@@ -29,7 +29,7 @@ Tega Brain: brain@nyu.edu
 - *5:00- 5:30* Project logistics. Roles. Groups etc. What do we need to get done for next week? 
   
 **Homework**  
-- Develop one or more actions for disobedience and realise it as one or more artifacts/interventions. Bring to class next week. 
+- Develop one or more actions for disobedience and realise it as one or more [artifacts/interventions](https://github.com/samatt/hunter-workshop/blob/master/3-artifact.md). Bring to class next week. 
 - Readings:
  -[Hito Steyerl, A Sea of Data: Apophenia and Pattern (Mis-)Recognition](https://drive.google.com/file/d/0B8pZRjIECCvPVUIxcmQtQmw3TjQ/view?usp=sharing)
  - Jenny Odell, How to do Nothing [read the essay](https://medium.com/@the_jennitaur/how-to-do-nothing-57e100f59bbb) or [watch the talk](https://www.youtube.com/watch?v=mNRqswoCVcM)
@@ -39,7 +39,7 @@ Tega Brain: brain@nyu.edu
 ---
 
 - *10:30 - 11:30* Reading discussion
-- *11:30 - 12:30* Presentations of work/responses
-- *12:30 - 4:30* Documentation and production of zine/blog
+- *11:30 - 1:00* Presentation and discussion of work/responses
+- *1:00 - 4:30* Documentation/production of zine/blog
 - *4:00 - 5:00* Final upload or printing as needed
 - *5:00 - 5:30* YASSS WE DID IT! TIME TO BASK IN OUR COLLECTIVE AWESOMENESS!
