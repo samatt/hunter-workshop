@@ -13,7 +13,7 @@ Surya Mattu: surya@suryamattu.com
 Tega Brain: brain@nyu.edu
 
 
-
+Tactics link: https://disobedience.unfitbits.com
 ###  Day 1
 
 ---
