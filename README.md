@@ -29,7 +29,7 @@ Tactics link: https://disobedience.unfitbits.com
 - *5:00- 5:30* Project logistics. Roles. Groups etc. What do we need to get done for next week? 
   
 **Homework**  
-- Develop one or more actions for disobedience and realise it as one or more [artifacts/interventions](https://github.com/samatt/hunter-workshop/blob/master/3-artifact.md). Bring to class next week. 
+- In the context of your chosen system, brainstorm an idea for a disobedient intervention or action based on each tactic. Then develop one or more and realise it as an [artifact/response](https://github.com/samatt/hunter-workshop/blob/master/3-artifact.md). Bring to class for disucssion next week. 
 - Readings:
  -[Hito Steyerl, A Sea of Data: Apophenia and Pattern (Mis-)Recognition](https://drive.google.com/file/d/0B8pZRjIECCvPVUIxcmQtQmw3TjQ/view?usp=sharing)
  - Jenny Odell, How to do Nothing [read the essay](https://medium.com/@the_jennitaur/how-to-do-nothing-57e100f59bbb) or [watch the talk](https://www.youtube.com/watch?v=mNRqswoCVcM)
