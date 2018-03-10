@@ -27,11 +27,12 @@ Tega Brain: brain@nyu.edu
 - 3.30-4:00: Tactics 
 - *4:15 - 5:00*  Developing tactics + report back
 - *5:00- 5:30* Project logistics. Roles. Groups etc. What do we need to get done for next week? 
-- **Homework**
- - Develop one or more of your tactics for disobedience and realise it in (one or more) artifact. Bring to class next week. 
- - Readings
-** [Hito Steyerl, A Sea of Data: Apophenia and Pattern (Mis-)Recognition](https://drive.google.com/file/d/0B8pZRjIECCvPVUIxcmQtQmw3TjQ/view?usp=sharing)
-** - Jenny Odell, How to do Nothing [read the essay](https://medium.com/@the_jennitaur/how-to-do-nothing-57e100f59bbb) or [watch the talk](https://www.youtube.com/watch?v=mNRqswoCVcM)
+  
+**Homework**  
+- Develop one or more actions for disobedience and realise it as one or more artifacts/interventions. Bring to class next week. 
+- Readings:
+ -[Hito Steyerl, A Sea of Data: Apophenia and Pattern (Mis-)Recognition](https://drive.google.com/file/d/0B8pZRjIECCvPVUIxcmQtQmw3TjQ/view?usp=sharing)
+ - Jenny Odell, How to do Nothing [read the essay](https://medium.com/@the_jennitaur/how-to-do-nothing-57e100f59bbb) or [watch the talk](https://www.youtube.com/watch?v=mNRqswoCVcM)
 
 ### Day 2
 
