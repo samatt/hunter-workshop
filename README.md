@@ -20,13 +20,12 @@ Tega Brain: brain@nyu.edu
 
 
 
-- *10:30 - 11:00 Introductions (students)
-- *11:00 - 11:45* Introduction to Algorithmic Disobedience. Devise workshop outcomes.
-- *12:00 - 1:00*  Researching an algorithmic system (individually). White board.
-- *1:00 - 2:00* Lunch
-- 2:00 - 2:30: Present findings.
-- *2:30 - 3:30*  Tactics
-- *4:00*: Present back
+- *10:30 - 11:00* Introductions (students)
+- *11:00 - 11:45* Introduction to politics of algorithms. Devise workshop outcomes.
+- *12:00 - 12:45* Introduction to algorithmic disobedience.
+- *12:45 - 1:45* Lunch
+- 2:00 - 3:30: Researching an algorithmic system (individually). White board. Presentations.
+- *3:45 - 5:00*  Developing tactics + present back
 - *4:30- 5:30* Project logistics. Roles. Groups etc. What do we need to get for next week? 
 - **Homework**
   - Readings
